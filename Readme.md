@@ -1,4 +1,4 @@
---This is a year long roadmap for becoming a data scientist at an entry level for students with base level knowledge regarding Python.--
+--This is a year long roadmap for becoming a data scientist at an entry level for students with base level knowledge regarding programming languages.--
 Data Science Roadmap - 1 Year Plan
 
 Month 1: Week-by-Week Roadmap (Foundations)
