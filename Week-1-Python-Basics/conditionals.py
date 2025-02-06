@@ -1,4 +1,3 @@
-# Conditionals in Python  are basically the shortcut for if-else statements.
 
 # Let's say we have a condition to meet. If we fulfill the condition, then output will be "true". If we don't fulfill the condition, then output will be "false".
 

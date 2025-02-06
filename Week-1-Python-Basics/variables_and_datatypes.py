@@ -98,3 +98,21 @@ y = ("apple", "banana", "cherry", "apple")
 print(x, y)
 
 # Output: ('apple', 'banana', 'cherry') ('apple', 'banana', 'cherry', 'apple')
+
+# Differences between list and tuple
+# Example
+#In list
+x = ["apple", "banana", "cherry"]
+x[1] = "kiwi"
+
+print(x)
+
+# Output: ['apple', 'kiwi', 'cherry']
+
+#In tuple
+x = ("apple", "banana", "cherry")
+x[1] = "kiwi"
+
+print(x)
+
+# Output: Traceback (most recent call last):
